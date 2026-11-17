@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo File Reader
+
+**Embryo File Reader** is Embryo-Zero's fork of [tika](https://github.com/apache/tika), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Welcome to Apache Tika <https://tika.apache.org/>
 
 [![license](https://img.shields.io/github/license/apache/tika.svg?maxAge=2592000)](http://www.apache.org/licenses/LICENSE-2.0)
